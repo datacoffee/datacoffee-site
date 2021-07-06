@@ -8,9 +8,10 @@ aliases = ["about"]
 
 **Data Coffee** - это подкаст о данных в современном мире. Мнения экспертов и опыт в получении, хранении, обработке, визуализации и принятии решений на основе данных - всё это можно найти у нас. Слушать нас можно здесь:
 
-* [Anchor](https://anchor.fm/data-coffee)
+* [Apple Podcasts](https://podcasts.apple.com/podcast/data-coffee/id1575312052)
 * [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==)
 * [Яндекс.Музыка](https://music.yandex.ru/album/16320870)
+* [Anchor](https://anchor.fm/data-coffee)
 * [Breaker](https://www.breaker.audio/data-coffee)
 * [Pocket Casts](https://pca.st/74nrdobm)
 * [RadioPublic](https://radiopublic.com/data-coffee-GERkXr)
