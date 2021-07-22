@@ -34,3 +34,4 @@ jobs:
           destination_dir: docs
           publish_branch: main
           publish_dir: ./public
+          cname: datacoffee.site
