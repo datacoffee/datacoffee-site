@@ -31,5 +31,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: datacoffee/datacoffee.github.io
+          destination_dir: docs
           publish_branch: main
           publish_dir: ./public
