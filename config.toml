@@ -1,4 +1,4 @@
-baseURL = "https://www.datacoffee.site/"
+baseURL = "https://datacoffee.site/"
 title   = "Data Coffee"
 languageCode = "ru-ru"
 DefaultContentLanguage = "ru"
