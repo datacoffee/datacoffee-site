@@ -25,13 +25,18 @@ Data Coffee - это подкаст о данных в современном м
 
 * [Anchor](https://anchor.fm/data-coffee)
 * [Breaker](https://www.breaker.audio/data-coffee)
+* [Deezer](https://www.deezer.com/us/show/2840202)
 * [Listen Notes](https://www.listennotes.com/podcasts/data-coffee-data-coffee-cLSW4jpfJV_/)
+* [Player](https://player.fm/series/data-coffee)
 * [Pocket Casts](https://pca.st/74nrdobm)
 * [Podcast Addict](https://podcastaddict.com/podcast/3515774)
 * [Podcast Index](https://podcastindex.org/podcast/4066652)
 * [RadioPublic](https://radiopublic.com/data-coffee-GERkXr)
-* Samsung Podcasts
+* [Samsung Podcasts]()
 * [Spotify](https://open.spotify.com/show/7EnMILd9pCjVVGrKdCiKMw)
+* [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Data-Coffee-p1480281/)
+* [We.fo](https://we.fo/1575312052)
+* [Youtube](https://www.youtube.com/channel/UCHx8QFa7NK-HmoMzYoz7Pxg)
 * [RSS подкаста](https://anchor.fm/s/5bde2c58/podcast/rss)
 
 Подписаться в соцсетях можно тут: [Telegram](https://t.me/datacoffee), [Twitter](https://twitter.com/_DataCoffee_). А ещё у нас есть [чат](https://t.me/datacoffee_chat).

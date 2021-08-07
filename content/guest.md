@@ -10,7 +10,9 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/alexeymelehin.jpg" caption="product owner компании Глосав ([Хабр](https://habr.com/ru/users/drosselmayer/posts/)), приходил к нам в гости в 9м эпизоде" title="Алексей Мелёхин" width=150px >}}
+{{< figure src="/guests/evgenyermakov.jpg" caption="руководитель DWH в Yandex.Go ([Сайт](http://iJKos.com)), приходил к нам в гости [в 11м эпизоде](https://anchor.fm/data-coffee/episodes/Go-e15fldg)" title="Евгений Ермаков" width=150px >}}
+
+{{< figure src="/guests/alexeymelehin.jpg" caption="product owner компании Глосав ([Хабр](https://habr.com/ru/users/drosselmayer/posts/)), приходил к нам в гости [в 9м эпизоде](https://anchor.fm/data-coffee/episodes/IT--e14qpom)" title="Алексей Мелёхин" width=150px >}}
 
 {{< figure src="/guests/andreydemidov.jpg" caption="основатель сообщества DataYoga и некоммерческой организации Визстандарт ([Facebook](https://www.facebook.com/1demidov), [LinkedIn](http://ru.linkedin.com/in/1Demidov), [Instagram](https://www.instagram.com/andre_fry/)), приходил к нам в гости [в 7м эпизоде](https://anchor.fm/data-coffee/episodes/ep-e1450vh)" title="Андрей Демидов" width=150px >}}
 
