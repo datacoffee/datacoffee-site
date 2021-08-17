@@ -14,7 +14,7 @@ Data Coffee - это подкаст о данных в современном м
 
 | ![Alex](/we/alex.jpg) | ![Mak](/we/mak.png) | ![Dina](/we/dina.jpg) |
 |:---:|:---:|:---:|
-| Alex - data engineer, любитель docker и opensource | Mak - phd, data scientist, bass player | Dina - ведущий разработчик игрового хранилища |
+| Alex - автор подкаста, любитель кофе и opensource | Mak - phd, data scientist, bass player | Dina - ведущий разработчик игрового хранилища |
 
 **Где слушать?**
 
@@ -23,6 +23,7 @@ Data Coffee - это подкаст о данных в современном м
 | [![Apple Podcasts](/Apple.png)](https://podcasts.apple.com/podcast/data-coffee/id1575312052) | [![Google Podcasts](/Google.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==) | [![Yandex Music](/Yandex.png)](https://music.yandex.ru/album/16320870) | [![Amazon Music](/Amazon.png)](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) |
 |:---:|:---:|:---:|:---:|
 
+* [Acast](https://shows.acast.com/6112d59b0d18bd001276a329)
 * [Anchor](https://anchor.fm/data-coffee)
 * [Breaker](https://www.breaker.audio/data-coffee)
 * [Deezer](https://www.deezer.com/us/show/2840202)
@@ -34,6 +35,7 @@ Data Coffee - это подкаст о данных в современном м
 * [RadioPublic](https://radiopublic.com/data-coffee-GERkXr)
 * [Samsung Podcasts]()
 * [Spotify](https://open.spotify.com/show/7EnMILd9pCjVVGrKdCiKMw)
+* [Stitcher](https://www.stitcher.com/show/data-coffee)
 * [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Data-Coffee-p1480281/)
 * [We.fo](https://we.fo/1575312052)
 * [Youtube](https://www.youtube.com/channel/UCHx8QFa7NK-HmoMzYoz7Pxg)
