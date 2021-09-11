@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
+{{< figure src="/guests/pashafinkelshtein.jpeg" caption="developer advocate из JetBrains ([Twitter](https://twitter.com/asm0di0), [LinkedIn](https://www.linkedin.com/in/asm0dey/), [Telegram](https://t.me/asm0dey)), приходил к нам в гости [в 15м эпизоде](https://anchor.fm/data-coffee/episodes/15--Spark--Pandas--Scala--Zeppelin-e16r13v)" title="Паша Финкельштейн" width=150px >}}
+
 {{< figure src="/guests/valerypopov.jpg" caption="продакт-менеджер из Москвы ([Twitter](https://twitter.com/valerypopoff)), приходил к нам в гости [в 13м эпизоде](https://anchor.fm/data-coffee/episodes/--e164dso)" title="Валера Попов" width=150px >}}
 
 {{< figure src="/guests/evgenyermakov.jpg" caption="руководитель DWH в Yandex.Go ([Сайт](http://iJKos.com)), приходил к нам в гости [в 11м эпизоде](https://anchor.fm/data-coffee/episodes/Go-e15fldg)" title="Евгений Ермаков" width=150px >}}
