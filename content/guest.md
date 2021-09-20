@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/vadimbalashov.jpeg" caption="организатор DIY-митапов, энтузиаст DIY, умных домов и 3D-принтеров, iOS-разработчик ([Хабр](https://habr.com/ru/users/vadimbal/)), приходил к нам в гости [в 17м эпизоде]()" title="Вадим Балашов" width=150px >}}
+{{< figure src="/guests/vadimbalashov.jpeg" caption="организатор DIY-митапов, энтузиаст DIY, умных домов и 3D-принтеров, iOS-разработчик ([Хабр](https://habr.com/ru/users/vadimbal/)), приходил к нам в гости [в 17м эпизоде](https://anchor.fm/data-coffee/episodes/17-e17fh7c)" title="Вадим Балашов" width=150px >}}
 
 {{< figure src="/guests/pashafinkelshtein.jpeg" caption="developer advocate из JetBrains ([Twitter](https://twitter.com/asm0di0), [LinkedIn](https://www.linkedin.com/in/asm0dey/), [Telegram](https://t.me/asm0dey)), приходил к нам в гости [в 15м эпизоде](https://anchor.fm/data-coffee/episodes/15--Spark--Pandas--Scala--Zeppelin-e16r13v)" title="Паша Финкельштейн" width=150px >}}
 
