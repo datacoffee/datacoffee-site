@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
+{{< figure src="/guests/anastasiapilkevich.jpg" caption="T&D Project manager at Intella ([LinkedIn](https://www.linkedin.com/in/anastasia-pilkevich/), [Facebook](https://www.facebook.com/anastasia.pilkevich)), приходила к нам в гости [в 21м эпизоде]()" title="Анастасия Пилькевич" width=150px >}}
+
 {{< figure src="/guests/nikolayvaliotti.jpg" caption="кандидат экономических наук, специалист и руководитель в области BI, руководитель компании Valiotti Analytics ([Сайт](https://leftjoin.ru), [Telegram](https://t.me/leftjoin)), приходил к нам в гости [в 19м эпизоде](https://anchor.fm/data-coffee/episodes/19-----SQL--dbt--BI-e185g4a)" title="Николай Валиотти" width=150px >}}
 
 {{< figure src="/guests/vadimbalashov.jpeg" caption="организатор DIY-митапов, энтузиаст DIY, умных домов и 3D-принтеров, iOS-разработчик ([Хабр](https://habr.com/ru/users/vadimbal/)), приходил к нам в гости [в 17м эпизоде](https://anchor.fm/data-coffee/episodes/17-e17fh7c)" title="Вадим Балашов" width=150px >}}
