@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
+{{< figure src="/guests/grigoryevtukh.jpg" caption="профессиональный орнитолог и бёрдвотчинг гид, преподаватель Биологического факультета МГУ, лектор в проектах Московского зоопарка и Политеха, автор проекта о птицах и природе Lyric Forester ([Telegram](https://t.me/lyricforester), [Instagram](https://www.instagram.com/lyric.forester/?hl=ru), [Facebook](https://www.facebook.com/lyricforesterbirding), [VK](https://vk.com/lyricforester)), приходил к нам в гости [в 26м эпизоде](https://anchor.fm/data-coffee/episodes/26----birdwatching-e1a79g7)" title="Григорий Евтух" width=150px >}}
+
 {{< figure src="/guests/vadimpushtaev.jpeg" caption="руководитель разработки backend голосового помощника 'Маруся' ([Facebook](https://www.facebook.com/pushtaev.vm)), приходил к нам в гости [в 24м эпизоде]()" title="Вадим Пуштаев" width=150px >}}
 
 {{< figure src="/guests/anastasiapilkevich.jpg" caption="T&D Project manager at Intella ([LinkedIn](https://www.linkedin.com/in/anastasia-pilkevich/), [Facebook](https://www.facebook.com/anastasia.pilkevich)), приходила к нам в гости [в 21м эпизоде](https://anchor.fm/data-coffee/episodes/21-e18qltq)" title="Анастасия Пилькевич" width=150px >}}
