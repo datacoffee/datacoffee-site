@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2021-07-03"
+date = "2021-11-26"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,8 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/dimadobrohotov.jpg" caption="Founder & CEO Get me IT ([Facebook](https://www.facebook.com/dima.dobro.35), [Хабр](https://habr.com/ru/users/Ddobrokh/)), приходил к нам в гости [в 28м эпизоде]()" title="Дима Доброхотов" width=150px >}}
 
 {{< figure src="/guests/grigoryevtukh.jpg" caption="профессиональный орнитолог и бёрдвотчинг гид, преподаватель Биологического факультета МГУ, лектор в проектах Московского зоопарка и Политеха, автор проекта о птицах и природе Lyric Forester ([Telegram](https://t.me/lyricforester), [Instagram](https://www.instagram.com/lyric.forester/?hl=ru), [Facebook](https://www.facebook.com/lyricforesterbirding), [VK](https://vk.com/lyricforester)), приходил к нам в гости [в 26м эпизоде](https://anchor.fm/data-coffee/episodes/26----birdwatching-e1a79g7)" title="Григорий Евтух" width=150px >}}
 
