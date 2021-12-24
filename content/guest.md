@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2021-11-26"
+date = "2021-12-24"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -10,7 +10,9 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/pavelefimov.jpg" caption="Аспирант Университета ИТМО ([Google Scholar](https://scholar.google.ru/citations?user=Ptnw5OMAAAAJ)), приходил к нам в гости [в 30м эпизоде]()" title="Павел Ефимов" width=150px >}}
+{{< figure src="/guests/sergeigamockiy.jpeg" caption="Machine Learning Engineer at ExB Labs ([Сайт](https://serhii.net/), [Telegram](https://t.me/pchr8), [LinkedIn](https://www.linkedin.com/in/serhii-hamotskyi-24063796)), приходил к нам в гости [в 32м эпизоде](https://anchor.fm/data-coffee/episodes/32--Personal-Knowledge-Management-e1c3np7)" title="Сергей Гамоцкий" width=150px >}}
+
+{{< figure src="/guests/pavelefimov.jpg" caption="Аспирант Университета ИТМО ([Google Scholar](https://scholar.google.ru/citations?user=Ptnw5OMAAAAJ)), приходил к нам в гости [в 30м эпизоде](https://anchor.fm/data-coffee/episodes/30-----QnA--e1bicgg)" title="Павел Ефимов" width=150px >}}
 
 {{< figure src="/guests/dimadobrohotov.jpg" caption="Founder & CEO Get me IT ([Facebook](https://www.facebook.com/dima.dobro.35), [Хабр](https://habr.com/ru/users/Ddobrokh/)), приходил к нам в гости [в 28м эпизоде](https://anchor.fm/data-coffee/episodes/28-------IT--e1arvgc)" title="Дима Доброхотов" width=150px >}}
 
