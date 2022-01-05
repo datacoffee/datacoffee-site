@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2021-12-24"
+date = "2021-01-05"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,8 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/andreyzhukov.jpg" caption="технический директор S7 ТехЛаб, инновационного подразделения S7 ([Telegram](https://t.me/fall_out_bug), [Facebook](https://www.facebook.com/andrey.v.zhukov.86)), приходил к нам в гости [в 34м эпизоде](https://anchor.fm/data-coffee/episodes/34-e1chv13)" title="Андрей Жуков" width=150px >}}
 
 {{< figure src="/guests/sergeigamockiy.jpeg" caption="Machine Learning Engineer at ExB Labs ([Сайт](https://serhii.net/), [Telegram](https://t.me/pchr8), [LinkedIn](https://www.linkedin.com/in/serhii-hamotskyi-24063796)), приходил к нам в гости [в 32м эпизоде](https://anchor.fm/data-coffee/episodes/32--Personal-Knowledge-Management-e1c3np7)" title="Сергей Гамоцкий" width=150px >}}
 
