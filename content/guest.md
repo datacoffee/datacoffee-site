@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/alexpshe.jpeg" caption="QA Lead в JetBrains, ведущая подкаста 'Вроде в проде', ментор и консультант на тему автоматизации и тестирования ([Twitter](https://twitter.com/alex_pshe), [Instagram](https://www.instagram.com/alexpshe/), [LinkedIn](https://www.linkedin.com/in/alexpshe/), [Подкаст](https://soundcloud.com/vrode_v_prode), [GetMentor](https://getmentor.dev/mentor/aleksandra-psheborovskaia-370)), приходила к нам в гости [в 36м эпизоде](https://anchor.fm/data-coffee/episodes/36-e1d9b7k)" title="Саша Пшеборовская" width=150px >}}
+{{< figure src="/guests/alexpshe.jpeg" caption="QA Lead в JetBrains, ведущая подкаста [Вроде в проде](https://podcasts.apple.com/md/podcast/%D0%B2%D1%80%D0%BE%D0%B4%D0%B5-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B5/id1592113826), ментор и консультант на тему автоматизации и тестирования ([Twitter](https://twitter.com/alex_pshe), [Instagram](https://www.instagram.com/alexpshe/), [LinkedIn](https://www.linkedin.com/in/alexpshe/), [Подкаст](https://soundcloud.com/vrode_v_prode), [GetMentor](https://getmentor.dev/mentor/aleksandra-psheborovskaia-370)), приходила к нам в гости [в 36м эпизоде](https://anchor.fm/data-coffee/episodes/36-e1d9b7k)" title="Саша Пшеборовская" width=150px >}}
 
 {{< figure src="/guests/andreyzhukov.jpg" caption="технический директор S7 ТехЛаб, инновационного подразделения S7 ([Telegram](https://t.me/fall_out_bug), [Facebook](https://www.facebook.com/andrey.v.zhukov.86)), приходил к нам в гости [в 34м эпизоде](https://anchor.fm/data-coffee/episodes/34-e1chv13)" title="Андрей Жуков" width=150px >}}
 
