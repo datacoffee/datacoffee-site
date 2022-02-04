@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2021-01-05"
+date = "2021-02-04"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,8 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/antonrevyako.jpg" caption="автор канала [Сингулярности не будет](https://t.me/nosingularity), фаундер [holistic.dev](https://holistic.dev), [dwh.dev](https://dwh.dev) и [parsers.dev](https://parsers.dev), заводила в snowflake чатах ([ru](https://t.me/snowflakedbchat), [en](https://t.me/snowflakedbchat_en)) и [канале](https://t.me/snowflake_daily) со snowflake новостями, приходил к нам в гости [в 38м эпизоде](https://anchor.fm/data-coffee/episodes/38--Snowflake-Data-Cloud-e1dued5)" title="Антон Ревяко" width=150px >}}
 
 {{< figure src="/guests/alexpshe.jpeg" caption="QA Lead в JetBrains, ведущая подкаста 'Вроде в проде', ментор и консультант на тему автоматизации и тестирования ([Twitter](https://twitter.com/alex_pshe), [Instagram](https://www.instagram.com/alexpshe/), [LinkedIn](https://www.linkedin.com/in/alexpshe/), [Подкаст](https://soundcloud.com/vrode_v_prode), [GetMentor](https://getmentor.dev/mentor/aleksandra-psheborovskaia-370)), приходила к нам в гости [в 36м эпизоде](https://anchor.fm/data-coffee/episodes/36-e1d9b7k)" title="Саша Пшеборовская" width=150px >}}
 
