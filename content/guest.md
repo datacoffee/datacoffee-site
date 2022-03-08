@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/irinaandreychenko.jpeg" caption="психолог ([Instagram](https://instagram.com/virastaem.vmeste?utm_medium=copy_link), [Telegram](https://t.me/virastaem_vmeste)), приходила к нам в гости [в 42м эпизоде](https://anchor.fm/data-coffee/episodes/42-e1f8ccp)" title="Ирина Андрейченко" width=150px >}}
+{{< figure src="/guests/irinaandreychenko.jpeg" caption="психолог-консультант, детский психолог, работающий в концепции Транзактного анализа, член Санкт-Петербургской и Европейской Организации Транзактного Анализа. ([Instagram](https://instagram.com/virastaem.vmeste?utm_medium=copy_link), [Telegram](https://t.me/virastaem_vmeste)), приходила к нам в гости [в 42м эпизоде](https://anchor.fm/data-coffee/episodes/42-e1f8ccp)" title="Ирина Андрейченко" width=150px >}}
 
 {{< figure src="/guests/olegpotapov.jpeg" caption="руководитель направления аналитики в My.Games ([Facebook](https://www.facebook.com/potapower)), приходил к нам в гости [в 40м эпизоде](https://anchor.fm/data-coffee/episodes/40-e1ejdoe)" title="Олег Потапов" width=150px >}}
 
