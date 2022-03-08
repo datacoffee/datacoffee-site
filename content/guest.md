@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2021-02-04"
+date = "2022-03-04"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,10 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/irinaandreychenko.jpeg" caption="психолог-консультант, детский психолог, работающий в концепции Транзактного анализа, член Санкт-Петербургской и Европейской Организации Транзактного Анализа. ([Instagram](https://instagram.com/virastaem.vmeste?utm_medium=copy_link), [Telegram](https://t.me/virastaem_vmeste)), приходила к нам в гости [в 42м эпизоде](https://anchor.fm/data-coffee/episodes/42-e1f8ccp)" title="Ирина Андрейченко" width=150px >}}
+
+{{< figure src="/guests/olegpotapov.jpeg" caption="руководитель направления аналитики в My.Games ([Facebook](https://www.facebook.com/potapower)), приходил к нам в гости [в 40м эпизоде](https://anchor.fm/data-coffee/episodes/40-e1ejdoe)" title="Олег Потапов" width=150px >}}
 
 {{< figure src="/guests/antonrevyako.jpg" caption="автор канала [Сингулярности не будет](https://t.me/nosingularity), фаундер [holistic.dev](https://holistic.dev), [dwh.dev](https://dwh.dev) и [parsers.dev](https://parsers.dev), заводила в snowflake чатах ([ru](https://t.me/snowflakedbchat), [en](https://t.me/snowflakedbchat_en)) и [канале](https://t.me/snowflake_daily) со snowflake новостями, приходил к нам в гости [в 38м эпизоде](https://anchor.fm/data-coffee/episodes/38--Snowflake-Data-Cloud-e1dued5)" title="Антон Ревяко" width=150px >}}
 
