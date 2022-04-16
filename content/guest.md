@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2022-03-04"
+date = "2022-04-15"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -10,7 +10,9 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
-{{< figure src="/guests/irinaandreychenko.jpeg" caption="психолог-консультант, детский психолог, работающий в концепции Транзактного анализа, член Санкт-Петербургской и Европейской Организации Транзактного Анализа. ([Instagram](https://instagram.com/virastaem.vmeste?utm_medium=copy_link), [Telegram](https://t.me/virastaem_vmeste)), приходила к нам в гости [в 42м эпизоде](https://anchor.fm/data-coffee/episodes/42-e1f8ccp)" title="Ирина Андрейченко" width=150px >}}
+{{< figure src="/guests/ulyanaprohorova.jpeg" caption="метеоролог, младший научный сотрудник Арктического и Антарктического научно-исследовательского института ([Instagram](https://www.instagram.com/uuuuuulya/)), приходила к нам в гости [в 44м эпизоде](https://anchor.fm/data-coffee/episodes/44-S2E2-e1h868b)" title="Ульяна Прохорова" width=150px >}}
+
+{{< figure src="/guests/irinaandreychenko.jpeg" caption="психолог-консультант, детский психолог, работающий в концепции Транзактного анализа, член Санкт-Петербургской и Европейской Организации Транзактного Анализа ([Instagram](https://instagram.com/virastaem.vmeste), [Telegram](https://t.me/virastaem_vmeste)), приходила к нам в гости [в 42м эпизоде](https://anchor.fm/data-coffee/episodes/42-e1f8ccp)" title="Ирина Андрейченко" width=150px >}}
 
 {{< figure src="/guests/olegpotapov.jpeg" caption="руководитель направления аналитики в My.Games ([Facebook](https://www.facebook.com/potapower)), приходил к нам в гости [в 40м эпизоде](https://anchor.fm/data-coffee/episodes/40-e1ejdoe)" title="Олег Потапов" width=150px >}}
 
