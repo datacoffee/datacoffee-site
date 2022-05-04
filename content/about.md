@@ -46,3 +46,12 @@ Data Coffee - это подкаст о данных в современном м
 * [RSS подкаста](https://anchor.fm/s/5bde2c58/podcast/rss)
 
 Подписаться в соцсетях можно тут: [Telegram](https://t.me/datacoffee), [Twitter](https://twitter.com/_DataCoffee_). А ещё у нас есть [чат](https://t.me/datacoffee_chat).
+
+**Как поддержать?**
+
+У слушателей подкаста есть возможность [купить нам кофе](https://www.buymeacoffee.com/datacoffee)
+
+{{< figure src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" link="https://www.buymeacoffee.com/datacoffee" height=60px >}}
+
+
+<a href="https://www.buymeacoffee.com/datacoffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
