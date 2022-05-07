@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2022-04-15"
+date = "2022-05-07"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,8 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/annastroevskaya.jpg" caption="junior data engineer, автор канала [Girl DataEng](https://t.me/hadoopgirl) и создатель чата для начинающих дата инженеров [DataYoungers](https://t.me/datalearn_community) ([Telegram](https://t.me/poppy_fox)), приходила к нам в гости [в 47м эпизоде](https://anchor.fm/data-coffee/episodes/47-S2E5--------community-e1i5ubm)" title="Анна Строевская" width=150px >}}
 
 {{< figure src="/guests/ulyanaprohorova.jpeg" caption="метеоролог, младший научный сотрудник Арктического и Антарктического научно-исследовательского института ([Instagram](https://www.instagram.com/uuuuuulya/)), приходила к нам в гости [в 44м эпизоде](https://anchor.fm/data-coffee/episodes/44-S2E2-e1h868b)" title="Ульяна Прохорова" width=150px >}}
 
