@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
+{{< figure src="/guests/kseniatomak.jpeg" caption="Engineering TechLead в Dodo Engineering, член программного комитета SmartData, DE or DIE data engineering digest редактор и организатор митапов DE or DIE ([LinkedIn](https://www.linkedin.com/in/ksenia-tomak/), [Twitter](https://twitter.com/if_no_then_yes), [DE or DIE](https://github.com/deordie/deordie-meetups)), приходила к нам в гости [в 48м эпизоде](https://anchor.fm/data-coffee/episodes/48-S2E6--Cooking-stages--pizza-scientists-e1ig6va)" title="Ксения Томак" width=150px >}}
+
 {{< figure src="/guests/annastroevskaya.jpg" caption="junior data engineer, автор канала [Girl DataEng](https://t.me/hadoopgirl) и создатель чата для начинающих дата инженеров [DataYoungers](https://t.me/datalearn_community) ([Telegram](https://t.me/poppy_fox)), приходила к нам в гости [в 47м эпизоде](https://anchor.fm/data-coffee/episodes/47-S2E5--------community-e1i5ubm)" title="Анна Строевская" width=150px >}}
 
 {{< figure src="/guests/ulyanaprohorova.jpeg" caption="метеоролог, младший научный сотрудник Арктического и Антарктического научно-исследовательского института ([Instagram](https://www.instagram.com/uuuuuulya/)), приходила к нам в гости [в 44м эпизоде](https://anchor.fm/data-coffee/episodes/44-S2E2-e1h868b)" title="Ульяна Прохорова" width=150px >}}
