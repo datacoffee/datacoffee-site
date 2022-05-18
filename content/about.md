@@ -12,9 +12,12 @@ Data Coffee - это подкаст о данных в современном м
 
 **Кто мы?**
 
-| ![Alex](/we/alex.jpg) | ![Mak](/we/mak.png) | ![Dina](/we/dina.jpg) |
-|:---:|:---:|:---:|
-| Alex - автор подкаста, любитель кофе и opensource | Mak - phd, data scientist, bass player | Dina - ведущий разработчик игрового хранилища |
+|||
+|:---:|:---:|
+| ![Alex](/we/alex.jpg)    | Alex - автор подкаста, любитель кофе и opensource |
+| ![Mak](/we/mak.png)      | Mak - phd, data scientist, bass player |
+| ![Dina](/we/dina.jpg)    | Dina - ведущий разработчик игрового хранилища |
+| ![iJKos](/we/ijkos.jpeg) | iJKos - восторженный фанат, который преследовал редакцию, пока не оказался на этой странице |
 
 **Где слушать?**
 
@@ -43,7 +46,9 @@ Data Coffee - это подкаст о данных в современном м
 * [We.fo](https://we.fo/1575312052)
 * [СберЗвук](https://sber-zvuk.com/podcast/20761020)
 * [Youtube](https://www.youtube.com/channel/UCHx8QFa7NK-HmoMzYoz7Pxg)
+* [Telegram-бот](https://t.me/datacoffee_podcast_bot)
 * [RSS подкаста](https://anchor.fm/s/5bde2c58/podcast/rss)
+* [запасной RSS Feed](https://rss.datacoffee.link)
 
 Подписаться в соцсетях можно тут: [Telegram](https://t.me/datacoffee), [Twitter](https://twitter.com/_DataCoffee_). А ещё у нас есть [чат](https://t.me/datacoffee_chat).
 
