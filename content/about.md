@@ -45,7 +45,7 @@ Data Coffee - это подкаст о данных в современном м
 * [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Data-Coffee-p1480281/)
 * [We.fo](https://we.fo/1575312052)
 * [СберЗвук](https://sber-zvuk.com/podcast/20761020)
-* [Youtube](https://www.youtube.com/channel/UCHx8QFa7NK-HmoMzYoz7Pxg)
+* [Youtube](http://youtube.com/c/DataCoffee)
 * [Telegram-бот](https://t.me/datacoffee_podcast_bot)
 * [RSS подкаста](https://anchor.fm/s/5bde2c58/podcast/rss)
 * [запасной RSS Feed](https://rss.datacoffee.link)
