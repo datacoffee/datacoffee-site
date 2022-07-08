@@ -12,7 +12,7 @@ aliases = ["guest"]
 
 {{< figure src="/guests/elenashevchenko.jpg" caption="Data Scientist в компании Dannie ([LinkedIn](https://www.linkedin.com/in/елена-шевченко-360083129/)), приходила к нам в гости [в 56м эпизоде](https://anchor.fm/data-coffee/episodes/56-S2E14--Edge-ML-e1l01ad)" title="Елена Шевченко" width=150px >}}
 
-{{< figure src="/guests/kolyayun.jpeg" caption="Game designer из Kama Games, приходил к нам в гости [в 52м эпизоде](https://anchor.fm/data-coffee/episodes/56-S2E14--Edge-ML-e1l01ad)" title="Коля Юн" width=150px >}}
+{{< figure src="/guests/kolyayun.jpeg" caption="Game designer из Kama Games, приходил к нам в гости [в 52м эпизоде](https://anchor.fm/data-coffee/episodes/52-S2E10-e1jpsb9)" title="Коля Юн" width=150px >}}
 
 {{< figure src="/guests/anastasiakoroleva.jpg" caption="PM в DWH в Yandex.Go, автор канала [Coffeeinmsk](https://t.me/coffeeinmsk) ([Telegram](https://t.me/konigan), [LinkedIn](https://www.linkedin.com/in/avkoroleva/)), приходила к нам в гости [в 50м эпизоде](https://anchor.fm/data-coffee/episodes/50-S2E8----e1j5iqg)" title="Анастасия Королёва" width=150px >}}
 
