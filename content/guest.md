@@ -1,6 +1,6 @@
 +++
 title = "Гости"
-date = "2022-07-06"
+date = "2022-08-06"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -9,6 +9,8 @@ aliases = ["guest"]
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
 Все эти замечательные люди были у нас в гостях:
+
+{{< figure src="/guests/nikitabakanchev.jpeg" caption="Lead Data Engineer в компании NabuMinds ([LinkedIn](http://linkedin.com/in/bakanchevn), [Telegram](https://t.me/analytics_engineer)), приходил к нам в гости [в 60м эпизоде](https://anchor.fm/data-coffee/episodes/60-S2E18--dbt--data-transformation-workflow-e1m5b6c)" title="Никита Баканчев" width=150px >}}
 
 {{< figure src="/guests/elenashevchenko.jpg" caption="Data Scientist в компании Dannie ([LinkedIn](https://www.linkedin.com/in/елена-шевченко-360083129/)), приходила к нам в гости [в 56м эпизоде](https://anchor.fm/data-coffee/episodes/56-S2E14--Edge-ML-e1l01ad)" title="Елена Шевченко" width=150px >}}
 
