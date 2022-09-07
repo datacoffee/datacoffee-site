@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях:
 
+{{< figure src="/guests/almazmurzabekov.jpeg" caption="Data Engineer в компании Picsart. Занимается DI & DE, а также внедряет систему Data Catalog в компании ([Telegram](https://t.me/AlmazKG), [Email](mailto:almazmurzabekov2@gmail.com)), приходил к нам в гости [в 65м эпизоде]()" title="Алмаз Мурзабеков" width=150px >}}
+
 {{< figure src="/guests/maksimpchelin.jpg" caption="руководитель команды продукта Data Management Platform в Яндекс.GO ([LinkedIn](https://www.linkedin.com/in/maximpchelin/), [Telegram](https://t.me/PchelinM)), приходил к нам в гости [в 63м эпизоде](https://anchor.fm/data-coffee/episodes/63-S2E21--Data-Management-Platform-e1n0qbp)" title="Максим Пчелин" width=150px >}}
 
 {{< figure src="/guests/nikitabakanchev.jpeg" caption="Lead Data Engineer в компании NabuMinds ([LinkedIn](http://linkedin.com/in/bakanchevn), [Telegram](https://t.me/analytics_engineer)), приходил к нам в гости [в 60м эпизоде](https://anchor.fm/data-coffee/episodes/60-S2E18--dbt--data-transformation-workflow-e1m5b6c)" title="Никита Баканчев" width=150px >}}
