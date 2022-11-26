@@ -34,10 +34,4 @@ _в день записи_:
 
 **Доступные слоты**
 
-На {{< rawhtml >}}
-  <!-- Calendly link widget begin -->
-  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/datacoffee/guest'});return false;">этой странице</a>
-  <!-- Calendly link widget end -->
-{{< /rawhtml >}}  можно выбрать удобную дату записи, если этот момент ещё не обговорили с ведущими. Там же можно будет и указать все ссылки на материалы по списку выше.
+{{< calendly >}}
