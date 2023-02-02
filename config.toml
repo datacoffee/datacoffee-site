@@ -190,3 +190,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "статьи"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "psycoffee"
+    name       = "psy coffee"
+    url        = "/psycoffee"
