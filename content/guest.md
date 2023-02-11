@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **3м сезоне**:
 
+{{< figure src="/guests/alexandermartirosyan.jpeg" caption="Профессиональный наукометрист, приходил к нам в гости [в 80м эпизоде](https://anchor.fm/data-coffee/episodes/80-S3E13-e1upvsk)" title="Александр Мартиросян" width=150px >}}
+
 {{< figure src="/guests/ilyasinev.jpg" caption="Senior Consultant Data Engineering at adesso SE ([Email](mailto:sinevi@gmail.com), [LinkedIn](https://www.linkedin.com/in/ilia-sinev/)), приходил к нам в гости [в 78м эпизоде](https://anchor.fm/data-coffee/episodes/78-S3E11----data-engineering-e1u3ran)" title="Илья Синёв" width=150px >}}
 
 {{< figure src="/guests/alexeymahotkin.jpg" caption="Автор концепции Minimal Modeling ([Сайт](https://minimalmodeling.com), [Рассылка](https://minimalmodeling.substack.com/), Youtube [1](https://www.youtube.com/watch?v=ZyLc_FzGvRM)/[2](https://www.youtube.com/watch?v=M2WM-jyVe6k)), приходил к нам в гости [в 71м эпизоде](https://anchor.fm/data-coffee/episodes/71-S3E04--Minimal-modeling-e1s16aq)" title="Алексей Махоткин" width=150px >}}
