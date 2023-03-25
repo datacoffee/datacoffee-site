@@ -10,6 +10,10 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **3м сезоне**:
 
+{{< figure src="/guests/sashaajvaz.jpg" caption="Chief Data & Analytics Officer, Lamoda Tech ([Email](mailto:aleksandr.ayvaz@lamoda.ru), [Telegram](https://t.me/ayvazs), [про команду Data & Analytics Lamoda Tech](https://latech.ru/data)), приходил к нам в гости [в 86м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/86-S3E19--Shopping-data-e213oi9)" title="Саша Айваз" width=150px >}}
+
+{{< figure src="/guests/viktoriaproletarskaya.jpeg" caption="К.т.н. в области работы с данными с 10 годами опытами в аналитике от e-commerce и travel до банкинга и девелопмента, приходила к нам в гости [в 81м эпизоде](https://spotifyanchor-web.app.link/e/McRJfXXdsyb)" title="Виктория Пролетарская" width=150px >}}
+
 {{< figure src="/guests/alexandermartirosyan.jpeg" caption="Профессиональный наукометрист, приходил к нам в гости [в 80м эпизоде](https://anchor.fm/data-coffee/episodes/80-S3E13-e1upvsk)" title="Александр Мартиросян" width=150px >}}
 
 {{< figure src="/guests/ilyasinev.jpg" caption="Senior Consultant Data Engineering at adesso SE ([Email](mailto:sinevi@gmail.com), [LinkedIn](https://www.linkedin.com/in/ilia-sinev/)), приходил к нам в гости [в 78м эпизоде](https://anchor.fm/data-coffee/episodes/78-S3E11----data-engineering-e1u3ran)" title="Илья Синёв" width=150px >}}
