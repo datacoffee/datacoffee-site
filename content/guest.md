@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **3м сезоне**:
 
-{{< figure src="/guests/alexanderzhadan.jpg" caption="brand manager, CM Games ([Twitter](https://twitter.com/biblikz), [Instagram](https://instagram.com/biblik)), приходил к нам в гости [в 87м эпизоде]()" title="Александр Жадан" width=150px >}}
+{{< figure src="/guests/alexanderzhadan.jpg" caption="brand manager, CM Games ([Twitter](https://twitter.com/biblikz), [Instagram](https://instagram.com/biblik)), приходил к нам в гости [в 87м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/87-S3E20--ChatGPT-e21gst2)" title="Александр Жадан" width=150px >}}
 
 {{< figure src="/guests/sashaajvaz.jpg" caption="Chief Data & Analytics Officer, Lamoda Tech ([Email](mailto:aleksandr.ayvaz@lamoda.ru), [Telegram](https://t.me/ayvazs), [про команду Data & Analytics Lamoda Tech](https://latech.ru/data)), приходил к нам в гости [в 86м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/86-S3E19--Shopping-data-e213oi9)" title="Саша Айваз" width=150px >}}
 
