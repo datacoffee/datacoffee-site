@@ -26,9 +26,8 @@ Data Coffee - это подкаст о данных в современном м
 | [![Apple Podcasts](/Apple.png)](https://podcasts.apple.com/podcast/data-coffee/id1575312052) | [![Google Podcasts](/Google.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==) | [![Yandex Music](/Yandex.png)](https://music.yandex.ru/album/16320870) | [![Amazon Music](/Amazon.png)](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) |
 |:---:|:---:|:---:|:---:|
 
-* [Acast](https://shows.acast.com/6112d59b0d18bd001276a329)
 * [Anchor](https://anchor.fm/data-coffee)
-* [Breaker](https://www.breaker.audio/data-coffee)
+* [Audible](https://www.audible.com/pd/Podcast/B08JJLWFHC)
 * [Deezer](https://www.deezer.com/us/show/2840202)
 * [Listen Notes](https://www.listennotes.com/podcasts/data-coffee-data-coffee-cLSW4jpfJV_/)
 * [Player](https://player.fm/series/data-coffee)
@@ -38,13 +37,13 @@ Data Coffee - это подкаст о данных в современном м
 * [Podcast Addict](https://podcastaddict.com/podcast/3515774)
 * [Podcast Guru](https://app.podcastguru.io/podcast/data-coffee-1575312052)
 * [Podcast Index](https://podcastindex.org/podcast/4066652)
+* [Podtail](https://podtail.com/podcast/data-coffee/)
 * [RadioPublic](https://radiopublic.com/data-coffee-GERkXr)
 * [Samsung Podcasts]()
 * [Spotify](https://open.spotify.com/show/7EnMILd9pCjVVGrKdCiKMw)
 * [Stitcher](https://www.stitcher.com/show/data-coffee)
 * [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Data-Coffee-p1480281/)
 * [We.fo](https://we.fo/1575312052)
-* [СберЗвук](https://sber-zvuk.com/podcast/20761020)
 * [Youtube](https://youtube.com/c/DataCoffee)
 * [Telegram-бот](https://t.me/datacoffee_podcast_bot)
 * [RSS подкаста](https://anchor.fm/s/5bde2c58/podcast/rss)
