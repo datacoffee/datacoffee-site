@@ -10,6 +10,10 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **3м сезоне**:
 
+{{< figure src="/guests/igormosyagin.jpg" caption="data engineer, Klarna ([Twitter](https://twitter.com/shrimpsizemoose), [Youtube](https://youtube.com/@shrimpsizemoose/), [LinkedIn](https://www.linkedin.com/in/shrimpsizemoose/)), приходил к нам в гости [в 95м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/95-S3E28-e24scme)" title="Игорь Мосягин" width=150px >}}
+
+{{< figure src="/guests/ivankanashov.jpeg" caption="data engineer, Тинькофф ([GitHub](https://github.com/ikanashov), [Telegram](https://t.me/ikanashov)), приходил к нам в гости [в 92м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/92-S3E25-----Data-Catalog-e23iiiv)" title="Иван Канашов" width=150px >}}
+
 {{< figure src="/guests/genrikhananyev.jpeg" caption="руководитель направления автоматизации отчётности и моделирования, Beluga Group ([Habr](https://habr.com/ru/users/Ananiev_Genrih/), [Email](mailto:edvardoss@gmail.com)), приходил к нам в гости [в 90м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/90-S3E23--Terrific-Microsoft-Excel-e22q0qq)" title="Генрих Ананьев" width=150px >}}
 
 {{< figure src="/guests/alexanderzhadan.jpg" caption="brand manager, CM Games ([Twitter](https://twitter.com/biblikz), [Instagram](https://instagram.com/biblik)), приходил к нам в гости [в 87м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/87-S3E20--ChatGPT-e21gst2)" title="Александр Жадан" width=150px >}}
