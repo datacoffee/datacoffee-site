@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **4м сезоне**:
 
-{{< figure src="/guests/ivandolbonosov.jpeg" caption="специалист по системному мониторингу инженерных конструкций, приходил к нам в гости [в 97м эпизоде](https://anchor.fm/data-coffee/episodes/69-S3E02-e1ragqu)" title="Иван Долбоносов" width=150px >}}
+{{< figure src="/guests/ivandolbonosov.jpeg" caption="специалист по системному мониторингу инженерных конструкций, приходил к нам в гости [в 97м эпизоде](https://podcasters.spotify.com/pod/show/data-coffee/episodes/97-S4E02-e28hdnn)" title="Иван Долбоносов" width=150px >}}
 
 А здесь гости, которые приходили к нам в предыдущих сезонах:
  - [сезон 3]({{< ref "guest-season-3" >}} )
