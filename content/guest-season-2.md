@@ -1,7 +1,7 @@
 +++
 title = "Гости (2й сезон)"
 date = "2022-11-26"
-aliases = ["guest"]
+aliases = ["guest2"]
 [ author ]
   name = "Alex"
 +++
@@ -33,5 +33,6 @@ aliases = ["guest"]
 {{< figure src="/guests/ulyanaprohorova.jpeg" caption="метеоролог, младший научный сотрудник Арктического и Антарктического научно-исследовательского института ([Instagram](https://www.instagram.com/uuuuuulya/)), приходила к нам в гости [в 44м эпизоде](https://anchor.fm/data-coffee/episodes/44-S2E2-e1h868b)" title="Ульяна Прохорова" width=150px >}}
 
 А здесь гости, которые приходили к нам в предыдущих сезонах:
- - [сезон 3]({{< ref "guest" >}} )
+ - [сезон 4]({{< ref "guest" >}} )
+ - [сезон 3]({{< ref "guest-season-3" >}} )
  - [сезон 1]({{< ref "guest-season-1" >}} )
