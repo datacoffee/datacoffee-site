@@ -152,10 +152,6 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/_DataCoffee_"
-
-  [[params.social]]
     name = "telegram"
     url  = "https://t.me/datacoffee"
 
@@ -166,10 +162,6 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "podcasts-apple"
     url  = "https://podcasts.apple.com/podcast/data-coffee/id1575312052"
-
-  [[params.social]]
-    name = "podcasts-google"
-    url  = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw=="
 
 [languages]
   [languages.ru]
