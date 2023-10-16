@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **4м сезоне**:
 
+{{< figure src="/guests/romanbunin.jpg" caption="эксперт по BI и визуализации данных, автор [Reveal the Data](https://t.me/revealthedata), приходил к нам в гости [в эпизоде #104](https://podcasters.spotify.com/pod/show/data-coffee/episodes/104-S4E09------DataLens-e2ak3hk)" title="Роман Бунин" width=150px >}}
+
 {{< figure src="/guests/georgyvinogradov.jpeg" caption="product owner в компании Novartis, приходил к нам в гости [в эпизоде #100](https://podcasters.spotify.com/pod/show/data-coffee/episodes/100-S4E05---data--e29ctne/a-aac3jjm)" title="Георгий Виноградов" width=150px >}}
 
 {{< figure src="/guests/ivandolbonosov.jpeg" caption="специалист по системному мониторингу инженерных конструкций, приходил к нам в гости [в эпизоде #97](https://podcasters.spotify.com/pod/show/data-coffee/episodes/97-S4E02-e28hdnn)" title="Иван Долбоносов" width=150px >}}
