@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **4м сезоне**:
 
+{{< figure src="/guests/grigoriyderun.jpeg" caption="архитектор и фанат DWH, строит DWH с нуля для ВкусВилл, приходил к нам в гости [в эпизоде #113](https://youtu.be/mjm1_7YOEUQ)" title="Григорий Дерун" width=150px >}}
+
 {{< figure src="/guests/kirillkolobin.jpeg" caption="консультант по внедрению аналитических решений на SAP-стеке в ритейле и промышленных компаниях России, который хочет стать Data инженером ([LinkedIn](https://ru.linkedin.com/in/kolobin), приходил к нам в гости [в эпизоде #109](https://www.youtube.com/watch?v=5lgba7W_21s)" title="Кирилл Колобин" width=150px >}}
 
 {{< figure src="/guests/romanbunin.jpg" caption="эксперт по BI и визуализации данных, автор [Reveal the Data](https://t.me/revealthedata), приходил к нам в гости [в эпизоде #104](https://podcasters.spotify.com/pod/show/data-coffee/episodes/104-S4E09------DataLens-e2ak3hk)" title="Роман Бунин" width=150px >}}
