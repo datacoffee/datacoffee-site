@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **4м сезоне**:
 
+{{< figure src="/guests/alekseymorgunov.jpeg" caption="архитектор DWH из компании Делотех, приходил к нам в гости [в эпизоде #114](https://youtu.be/CwCdZ330OiM)" title="Алексей Моргунов" width=150px >}}
+
 {{< figure src="/guests/grigoriyderun.jpeg" caption="архитектор и фанат DWH, строит DWH с нуля для ВкусВилл, приходил к нам в гости [в эпизоде #113](https://youtu.be/mjm1_7YOEUQ)" title="Григорий Дерун" width=150px >}}
 
 {{< figure src="/guests/kirillkolobin.jpeg" caption="консультант по внедрению аналитических решений на SAP-стеке в ритейле и промышленных компаниях России, который хочет стать Data инженером ([LinkedIn](https://ru.linkedin.com/in/kolobin), приходил к нам в гости [в эпизоде #109](https://www.youtube.com/watch?v=5lgba7W_21s)" title="Кирилл Колобин" width=150px >}}
