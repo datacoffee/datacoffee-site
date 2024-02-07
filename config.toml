@@ -179,10 +179,6 @@ disableHugoGeneratorInject = false
     name       = "гости"
     url        = "guest/"
   [[menu.main]]
-    identifier = "avito"
-    name       = "авито"
-    url        = "avito"
-  [[menu.main]]
     identifier = "posts"
     name       = "статьи"
     url        = "/posts"
