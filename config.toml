@@ -9,7 +9,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "Podcast license <a href=\"https://creativecommons.org/licenses/by-nc-nd/3.0/\">CC BY-NC-ND 3.0</a>" # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -36,9 +36,6 @@ disableHugoGeneratorInject = false
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Data Coffee Team"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -101,6 +98,9 @@ disableHugoGeneratorInject = false
   #
   justifyContent = false  # Set "text-align: justify" to .post-content.
 
+  [params.author]
+    name = "Data Coffee Team"
+
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
@@ -108,7 +108,7 @@ disableHugoGeneratorInject = false
     # trademark = true
     # rss = true
     copyright = true
-    author = true
+    # author = true
 
     topText = []
     # bottomText = [
@@ -164,7 +164,7 @@ disableHugoGeneratorInject = false
     url  = "https://podcasts.apple.com/podcast/data-coffee/id1575312052"
 
 [languages]
-  [languages.ru]
+  [languages.ru.params]
     subtitle  = "подкаст о данных в современном мире"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a>'
