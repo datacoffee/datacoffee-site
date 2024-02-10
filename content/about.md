@@ -53,9 +53,9 @@ Data Coffee - это подкаст о данных в современном м
 
 **Как поддержать?**
 
-У слушателей подкаста есть возможность [купить нам кофе](https://www.buymeacoffee.com/datacoffee)
+У слушателей подкаста есть возможность [купить нам кофе](https://www.buymeacoffee.com/alexgordienko)
 
-{{< figure src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" link="https://www.buymeacoffee.com/datacoffee" height=60px >}}
+{{< figure src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" link="https://www.buymeacoffee.com/alexgordienko" height=60px >}}
 
 
-<a href="https://www.buymeacoffee.com/datacoffee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/alexgordienko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
