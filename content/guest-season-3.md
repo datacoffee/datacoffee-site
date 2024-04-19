@@ -33,6 +33,7 @@ aliases = ["guest3"]
 {{< figure src="/guests/alexandertolmachev.jpg" caption="Руководитель аналитики Ozon.Fintech ([Facebook](https://www.facebook.com/aa.tolmachev)), приходил к нам в гости [в 69м эпизоде](https://anchor.fm/data-coffee/episodes/69-S3E02-e1ragqu)" title="Александр Толмачев" width=150px >}}
 
 А здесь гости, которые приходили к нам в предыдущих сезонах:
- - [сезон 4]({{< ref "guest" >}} )
+ - [сезон 5]({{< ref "guest" >}} )
+ - [сезон 4]({{< ref "guest-season-4" >}} )
  - [сезон 2]({{< ref "guest-season-2" >}} )
  - [сезон 1]({{< ref "guest-season-1" >}} )

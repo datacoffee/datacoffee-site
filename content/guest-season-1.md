@@ -51,6 +51,7 @@ aliases = ["guest1"]
 {{< figure src="/guests/dmitryanoshin.jpg" caption="специалист по созданию аналитических решений ([Telegram](https://t.me/rockyourdata), [LinkedIn](https://www.linkedin.com/in/dmitryanoshin/), [Хабр](https://habr.com/ru/users/dimoobraznii/posts/)), приходил к нам в гости [во 2м эпизоде](https://anchor.fm/data-coffee/episodes/Data-Driven-Culture-e11b8ai)" title="Дмитрий Аношин" width=150px >}}
 
 А здесь гости, которые приходили к нам в предыдущих сезонах:
- - [сезон 4]({{< ref "guest" >}} )
+ - [сезон 5]({{< ref "guest" >}} )
+ - [сезон 4]({{< ref "guest-season-4" >}} )
  - [сезон 3]({{< ref "guest-season-3" >}} )
  - [сезон 2]({{< ref "guest-season-2" >}} )

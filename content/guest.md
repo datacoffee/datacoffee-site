@@ -1,6 +1,6 @@
 +++
-title = "Гости (4й сезон)"
-date = "2023-11-18"
+title = "Гости (5й сезон)"
+date = "2024-04-19"
 aliases = ["guest"]
 [ author ]
   name = "Alex"
@@ -8,21 +8,14 @@ aliases = ["guest"]
 
 Мы любим встречать в подкасте гостей! Если Вам есть что рассказать - обязательно напишите нам.
 
-Все эти замечательные люди были у нас в гостях в **4м сезоне**:
+Все эти замечательные люди были у нас в гостях в **5м сезоне**:
 
-{{< figure src="/guests/alekseymorgunov.jpeg" caption="архитектор DWH из компании Делотех, приходил к нам в гости [в эпизоде #114](https://youtu.be/CwCdZ330OiM)" title="Алексей Моргунов" width=150px >}}
+{{< figure src="/guests/alexanderignatenko.jpeg" caption="эксперт по маркетинг- и продуктовой аналитике, автор Telegram-канала [Модель атрибуции](https://t.me/marketing_analysis), приходил к нам в гости [в эпизоде #121](https://youtu.be/EI-cc0dYE08)" title="Александр Игнатенко" width=150px >}}
 
-{{< figure src="/guests/grigoriyderun.jpeg" caption="архитектор и фанат DWH, строит DWH с нуля для ВкусВилл, приходил к нам в гости [в эпизоде #113](https://youtu.be/mjm1_7YOEUQ)" title="Григорий Дерун" width=150px >}}
-
-{{< figure src="/guests/kirillkolobin.jpeg" caption="консультант по внедрению аналитических решений на SAP-стеке в ритейле и промышленных компаниях России, который хочет стать Data инженером ([LinkedIn](https://ru.linkedin.com/in/kolobin), приходил к нам в гости [в эпизоде #109](https://www.youtube.com/watch?v=5lgba7W_21s)" title="Кирилл Колобин" width=150px >}}
-
-{{< figure src="/guests/romanbunin.jpg" caption="эксперт по BI и визуализации данных, автор [Reveal the Data](https://t.me/revealthedata), приходил к нам в гости [в эпизоде #104](https://podcasters.spotify.com/pod/show/data-coffee/episodes/104-S4E09------DataLens-e2ak3hk)" title="Роман Бунин" width=150px >}}
-
-{{< figure src="/guests/georgyvinogradov.jpeg" caption="product owner в компании Novartis, приходил к нам в гости [в эпизоде #100](https://podcasters.spotify.com/pod/show/data-coffee/episodes/100-S4E05---data--e29ctne/a-aac3jjm)" title="Георгий Виноградов" width=150px >}}
-
-{{< figure src="/guests/ivandolbonosov.jpeg" caption="специалист по системному мониторингу инженерных конструкций, приходил к нам в гости [в эпизоде #97](https://podcasters.spotify.com/pod/show/data-coffee/episodes/97-S4E02-e28hdnn)" title="Иван Долбоносов" width=150px >}}
+{{< figure src="/guests/sergeykazancev.jpg" caption="руководитель аналитики антифрода, Озон Банк (⁠⁠[Instagram](https://instagram.com/kazser)⁠, [⁠Telegram](https://t.me/kazancevs)), приходил к нам в гости [в эпизоде #116](https://youtu.be/6FTC8YNHqgw)" title="Сергей Казанцев" width=150px >}}
 
 А здесь гости, которые приходили к нам в предыдущих сезонах:
+ - [сезон 4]({{< ref "guest-season-4" >}} )
  - [сезон 3]({{< ref "guest-season-3" >}} )
  - [сезон 2]({{< ref "guest-season-2" >}} )
  - [сезон 1]({{< ref "guest-season-1" >}} )
