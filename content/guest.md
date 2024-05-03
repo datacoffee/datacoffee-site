@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **5м сезоне**:
 
+{{< figure src="/guests/nikitaivanov.jpeg" caption="product owner в компании Revolut ([LinkedIn](https://www.linkedin.com/in/nikivanov93/)), приходил к нам в гости [в эпизоде #123](https://youtu.be/Qo1M-n0AOgQ), #партнерскийматериал" title="Никита Иванов" width=150px >}}
+
 {{< figure src="/guests/alexanderignatenko.jpeg" caption="эксперт по маркетинг- и продуктовой аналитике, автор Telegram-канала [Модель атрибуции](https://t.me/marketing_analysis), приходил к нам в гости [в эпизоде #121](https://youtu.be/EI-cc0dYE08)" title="Александр Игнатенко" width=150px >}}
 
 {{< figure src="/guests/sergeykazancev.jpg" caption="руководитель аналитики антифрода, Озон Банк (⁠⁠[Instagram](https://instagram.com/kazser)⁠, [⁠Telegram](https://t.me/kazancevs)), приходил к нам в гости [в эпизоде #116](https://youtu.be/6FTC8YNHqgw)" title="Сергей Казанцев" width=150px >}}
