@@ -12,7 +12,7 @@ aliases = ["guest"]
 
 {{< figure src="/guests/niyazigaragashli.jpeg" caption="Data Ninja, senior data engineer & architect @ PASHA Holding ([LinkedIn](https://www.linkedin.com/in/ngaragashli/)), приходил к нам в гости [в эпизоде #130]()" title="Ниязи Гарагашлы" width=150px >}}
 
-{{< figure src="/guests/sergeishepelin.jpeg" caption="дата инженер из партнерского маркетинга в агрегаторе авиабилетов ([LinkedIn](www.linkedin.com/in/sergey-shepelin-14933a297)), приходил к нам в гости [в эпизоде #127](https://youtu.be/NqL5D6kuNqE)" title="Сергей Шепелин" width=150px >}}
+{{< figure src="/guests/sergeishepelin.jpeg" caption="дата инженер из партнерского маркетинга в агрегаторе авиабилетов ([LinkedIn](https://www.linkedin.com/in/sergey-shepelin-14933a297)), приходил к нам в гости [в эпизоде #127](https://youtu.be/NqL5D6kuNqE)" title="Сергей Шепелин" width=150px >}}
 
 {{< figure src="/guests/denispekhterev.jpeg" caption="руководитель команды аналитики продвижения и размещения товатов в монетизации Авито ([Telegram](http://t.me/mr_pekhterev)), приходил к нам в гости [в эпизоде #125](https://youtu.be/yKkeBCOneZE), #партнерскийматериал" title="Денис Пехтерев" width=150px >}}
 
