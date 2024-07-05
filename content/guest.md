@@ -10,6 +10,8 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **5м сезоне**:
 
+{{< figure src="/guests/eduardavetisyan.jpg" caption="дата инженер ([LinkedIn](https://www.linkedin.com/in/eavetisyan/)), приходил к нам в гости [в эпизоде #132]()" title="Эдуард Аветисян" width=150px >}}
+
 {{< figure src="/guests/niyazigaragashli.jpeg" caption="Data Ninja, senior data engineer & architect @ PASHA Holding ([LinkedIn](https://www.linkedin.com/in/ngaragashli/)), приходил к нам в гости [в эпизоде #130]()" title="Ниязи Гарагашлы" width=150px >}}
 
 {{< figure src="/guests/sergeishepelin.jpeg" caption="дата инженер из партнерского маркетинга в агрегаторе авиабилетов ([LinkedIn](https://www.linkedin.com/in/sergey-shepelin-14933a297)), приходил к нам в гости [в эпизоде #127](https://youtu.be/NqL5D6kuNqE)" title="Сергей Шепелин" width=150px >}}

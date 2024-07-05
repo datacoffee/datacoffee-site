@@ -14,7 +14,7 @@ Data Coffee - это подкаст о данных в современном м
 
 |||
 |:---:|:---:|
-| ![Alex](/we/alex.jpg)    | Alex - автор подкаста, любитель кофе и opensource |
+| ![Alex](/we/alex.jpg)    | [Alex](https://t.me/alexseconds) - автор подкаста, любитель кофе и opensource |
 | ![Mak](/we/mak.png)      | Mak - phd, data scientist, bass player |
 | ![Dina](/we/dina.jpg)    | Dina - ведущий разработчик игрового хранилища |
 | ![iJKos](/we/ijkos.jpeg) | iJKos - восторженный фанат, который преследовал редакцию, пока не оказался на этой странице |
