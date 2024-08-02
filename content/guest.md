@@ -10,7 +10,7 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **5м сезоне**:
 
-{{< figure src="/guests/sashamikhailov.jpeg" caption="дата инженер ([Telegram](https://t.me/data_days), [LinkedIn](https://www.linkedin.com/in/sasha-mikhailov-/)), приходил к нам в гости [в эпизоде #136]()" title="Саша Михайлов" width=150px >}}
+{{< figure src="/guests/sashamikhailov.jpeg" caption="дата инженер ([Telegram](https://t.me/data_days), [LinkedIn](https://www.linkedin.com/in/sasha-mikhailov-/)), приходил к нам в гости [в эпизоде #136](https://youtu.be/0QZOxkDJHNU)" title="Саша Михайлов" width=150px >}}
 
 {{< figure src="/guests/alexanderbarakov.jpg" caption="BI менеджер, дата стратег и психотерапевт (Data Nature [[RU](https://datanature.ru), [EN](https://data-nature.com)], [Telegram](https://t.me/datanature), [LinkedIn](https://www.linkedin.com/in/alexanderbarakov/)), приходил к нам в гости [в эпизоде #134](https://youtu.be/ZVKGNl-qn3s)" title="Александр Бараков" width=150px >}}
 
