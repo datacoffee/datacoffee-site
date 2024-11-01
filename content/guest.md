@@ -10,6 +10,18 @@ aliases = ["guest"]
 
 Все эти замечательные люди были у нас в гостях в **5м сезоне**:
 
+{{< figure src="/guests/nikolaymarkov.jpg" caption="Data Platform Lead в компании Altenar ([LinkedIn](https://www.linkedin.com/in/nickmarkov/)), приходил к нам в гости [в эпизоде #148]()" title="Николай Марков" width=150px >}}
+
+{{< figure src="/guests/olgatitova.jpeg" caption="руководитель команд DWH и BI в Яндекс.Еде и Delivery ([LinkedIn](https://ru.linkedin.com/in/olga-titova-939b84197)), приходила к нам в гости [в эпизоде #146](https://youtu.be/xQRRlUuIQlQ)" title="Ольга Титова" width=150px >}}
+
+{{< figure src="/guests/olesyamironova.jpg" caption="Head of Analytics ostrovok.ru ([Telegram](https://t.me/lesya_mironova), [Facebook](https://www.facebook.com/olesya.mironova), [LinkedIn](https://www.linkedin.com/in/olesya-mironova-264599a2/)), приходила к нам в гости [в эпизоде #144](https://youtu.be/zDzP4lgVZzw)" title="Олеся Миронова" width=150px >}}
+
+{{< figure src="/guests/nataliakiseleva.jpg" caption="эксперт по визуализации данных и дата-арту, преподаватель, тренер, глава дата-арт сообщества ([Сайт](https://eolay.tilda.ws), [Telegram](https://t.me/datavizcomics), [YouTube](https://www.youtube.com/playlist?list=PLcPHMNfqb5b4UtZHCjxzf7c8E2Hc6pqnw)), приходила к нам в гости [в эпизоде #142](https://youtube.com/c/DataCoffee)" title="Наталья Киселёва" width=150px >}}
+
+{{< figure src="/guests/nikolayprokofyev.jpeg" caption="мастер настольных ролевых игр, сценарист, нарративный дизайнер ([Instagram](nkly.dungeons), [Telegram](https://t.me/xproklx)), приходил к нам в гости [в эпизоде #140](https://youtu.be/nxDZ0joa7EY)" title="Николай Прокофьев" width=150px >}}
+
+{{< figure src="/guests/anatoliikarpov.jpg" caption="основатель школы [karpov.courses](https://karpov.courses), ex-аналитик ВКонтакте, приходил к нам в гости [в эпизоде #138](https://youtu.be/jxR1H_odpjE)" title="Анатолий Карпов" width=150px >}}
+
 {{< figure src="/guests/sashamikhailov.jpeg" caption="дата инженер ([Telegram](https://t.me/data_days), [LinkedIn](https://www.linkedin.com/in/sasha-mikhailov-/)), приходил к нам в гости [в эпизоде #136](https://youtu.be/0QZOxkDJHNU)" title="Саша Михайлов" width=150px >}}
 
 {{< figure src="/guests/alexanderbarakov.jpg" caption="BI менеджер, дата стратег и психотерапевт (Data Nature [[RU](https://datanature.ru), [EN](https://data-nature.com)], [Telegram](https://t.me/datanature), [LinkedIn](https://www.linkedin.com/in/alexanderbarakov/)), приходил к нам в гости [в эпизоде #134](https://youtu.be/ZVKGNl-qn3s)" title="Александр Бараков" width=150px >}}
